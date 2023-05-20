@@ -12,7 +12,3 @@
 
 
 
-### FlutterResources
-[![Flutter Resources](https://img.shields.io/badge/FlutterX-Resources-blue)](https://flutterx.com/?q=aseemwangoo) 
-
-
