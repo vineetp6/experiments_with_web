@@ -2,27 +2,8 @@
 
  [![Flutter Web and CD](https://github.com/AseemWangoo/experiments_with_web/workflows/Flutter%20Web%20and%20CD/badge.svg)](https://github.com/AseemWangoo/experiments_with_web/actions)
 
-# Welcome !
 
-Hosted URL : https://web.flatteredwithflutter.com/#/
 
-# Begin
-
-<p>
-  <a href="https://www.youtube.com/user/aseemwangoo/videos" target="_blank">
-  <img src="https://github.com/AseemWangoo/experiment_with_providers/blob/master/brand.png">
-  </a>  
-</p>
-
-## ‍🗣 Speaker at...
-
-* [Flutter SG Meetup 2021](https://www.meetup.com/Singapore-Flutter-Meetup/events/275617045/)
-
-* [GDG Devfest Singapore 2019](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content)
-[![GDG-SG 2019](https://img.shields.io/badge/GDG--SG-2019-red)](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content) 
-
-* [Meetup FlutterSG 2019](https://www.meetup.com/Singapore-Flutter-Meetup/events/past/)
-[![Meetup FlutterSG](https://img.shields.io/badge/Meetup-FlutterSG-red)](https://www.meetup.com/Singapore-Flutter-Meetup/events/past/)
 
 ## Contributor
 
